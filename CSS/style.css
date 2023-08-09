@@ -1,0 +1,17 @@
+/* .bg-light
+.m-5
+.p-5
+.border-top */
+
+.bg-light.container{
+    background: #f0ebeb;
+}
+
+.img1{
+    width: 100%;
+    height: 200px;                        
+}
+.img2{
+    width: 100%;
+    height: 200px;                        
+}
